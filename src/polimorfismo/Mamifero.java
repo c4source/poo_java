@@ -1,4 +1,4 @@
-package exercicios;
+package polimorfismo;
 
 public class Mamifero extends Animal{
 
